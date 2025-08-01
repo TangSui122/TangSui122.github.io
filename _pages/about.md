@@ -60,7 +60,7 @@ In the future, I aim to continue exploring cutting-edge methods for spatiotempor
   <img src="/images/edge_pretrain.jpg" alt="Building Damage Assessment" width="75%" style="margin-top: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
 > _(For full list of publications, see:_  
-> [📄 Download CV](./CV_full.pdf) · [Google Scholar](https://scholar.google.com/citations?user=TaezBZ0AAAAJ)_)
+> [📄 Download CV](./CV_TangSui.pdf) · [Google Scholar](https://scholar.google.com/citations?user=TaezBZ0AAAAJ)_)
 
 
 
