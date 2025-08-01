@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Department of Geography at the University of Wisconsin–Madison. My research interests lie in remote sensing, precision agriculture, natural hazards, and deep learning. I focus on integrating advanced machine learning (ML) and deep learning (DL) techniques with traditional remote sensing applications.
+I am a Ph.D. student in the Department of Geography at the University of Wisconsin–Madison, Spatial Computing and Data Mining Lab. My research interests lie in remote sensing, precision agriculture, natural hazards, and deep learning. I focus on integrating advanced machine learning (ML) and deep learning (DL) techniques with traditional remote sensing applications.
 
 My current work involves:
 - **Wildfire burnt area mapping** using bi-temporal Sentinel-2 imagery and attention-based U-Net models  
