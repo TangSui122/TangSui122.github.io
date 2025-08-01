@@ -43,6 +43,13 @@ In the future, I aim to continue exploring cutting-edge methods for spatiotempor
 
 # 📝 Selected Publications
 
+## 🕓 Coming Soon in 2025
+
+- *SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks*
+- *Graph Neural Networks for Hourly Streamflow Forecasting*
+
+---
+
 - **Tang Sui**, Mingda Wu, Meiliu Wu, Zhou Zhang, Qunying Huang.  
   *BiAU-Net: Wildfire burnt area mapping using bi-temporal Sentinel-2 imagery and U-Net with attention mechanism*.  
   *International Journal of Applied Earth Observation and Geoinformation*, 2024.  
