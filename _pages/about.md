@@ -84,6 +84,10 @@ In the future, I aim to continue exploring cutting-edge methods for spatiotempor
 # 📖 Education
 - **University of Wisconsin–Madison**, USA  
   Ph.D. Student in Geography, 2024 – Present  
+
+- **The Hong Kong Polytechnic University**, Hong Kong  
+  Exchange Student at Department of Land Surveying and Geo-Informatics, Spring 2022
+
 - **Tongji University**, China  
   B.Eng. in Surveying and Mapping, 2019 – 2024
 
