@@ -56,12 +56,12 @@ In the future, I aim to continue exploring cutting-edge methods for spatiotempor
   <span class='show_paper_citations' data='TaezBZ0AAAAJ:9yKSN-GCB0IC'></span>  
   <img src="/images/biunet.jpg" alt="BiAU-Net result" width="75%" style="margin-top: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
-- **Mingda Wu**, Tang Sui, Bo Peng, Manzhu Yu, Qunying Huang.  
+- Mingda Wu, **Tang Sui**, Bo Peng, Manzhu Yu, Qunying Huang.  
   *A Remote Sensing Spectral Index Guided Bitemporal Residual Attention Network for Wildfire Burn Severity Mapping*.  
   *IEEE JSTARS*, 2024.  
   <img src="/images/severity_net.jpg" alt="Burn Severity Mapping" width="75%" style="margin-top: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
-- **Songxi Yang**, Bo Peng, Tang Sui, Qunying Huang.  
+- Songxi Yang, Bo Peng, **Tang Sui**, Qunying Huang.  
   *Self-supervised Pretraining with Edge Guidance for Building Damage Assessment*.  
   *7th ACM SIGSPATIAL AI4Geo Workshop*, 2024.  
   <img src="/images/edge_pretrain.jpg" alt="Building Damage Assessment" width="75%" style="margin-top: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
