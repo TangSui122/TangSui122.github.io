@@ -29,10 +29,8 @@ In the future, I aim to continue exploring cutting-edge methods for spatiotempor
 
 📫 Feel free to reach out via email at **tsui5@wisc.edu** or connect on [Google Scholar](https://scholar.google.com/citations?user=XXXXXX) and [ResearchGate](https://www.researchgate.net/profile/Tang-Sui-2).
 
-> Google Scholar citations:  
-<a href='https://scholar.google.com/citations?user=TaezBZ0AAAAJ&hl=zh-CN&oi=ao'>
-  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
+📚 [My Google Scholar Profile](https://scholar.google.com/citations?user=TaezBZ0AAAAJ)
+
 
 ---
 
