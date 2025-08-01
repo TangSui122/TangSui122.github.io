@@ -27,7 +27,7 @@ author:
   location         : "Madison, WI, USA"
   employer         :
   pubmed           : 
-  scholar: "https://scholar.google.com/citations?user=TaezBZ0AAAAJ"
+  scholar          : "https://scholar.google.com/citations?user=TaezBZ0AAAAJ"
   email            : "tsui5@wisc.edu"
   researchgate     : "https://www.researchgate.net/profile/Tang-Sui-2"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/TangSui122"
+  github           : TangSui122
   google_plus      :
   keybase          :
   instagram        :
