@@ -36,6 +36,7 @@ In the future, I aim to continue exploring cutting-edge methods for spatiotempor
 ---
 
 # 🔥 News
+- *2025.09*: 🎉 Our paper **SpecSwin** accepted at the **GeoSIM Workshop @ ACM SIGSPATIAL 2025**.
 - *2025.07*: 🏆 Fourth Place, Remote Sensing Competition, 2025 AAG Annual Meeting.
 - *2024.08*: 🎉 Started Ph.D. program at UW–Madison!
 - *2024.06*: 📝 Our wildfire burnt area mapping paper accepted in *IJAEOG*.
