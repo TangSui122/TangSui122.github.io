@@ -51,7 +51,7 @@ Email: **tsui5@wisc.edu**
 ---
 
 # 🔥 News
-- **2025** 🎉 **SpecSwin3D** published in *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*  
+- **2026.02** 🎉 **SpecSwin3D** published in *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*  
 - **2025.09** 🎉 Our paper **SpecSwin** accepted at the **GeoSIM Workshop @ ACM SIGSPATIAL 2025**  
 - **2025.07** 🏆 Fourth Place, Remote Sensing Competition, **AAG Annual Meeting 2025**  
 - **2024.08** 🎓 Started Ph.D. program at **UW–Madison**  
