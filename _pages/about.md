@@ -1,9 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -50,7 +48,7 @@ Email: **tsui5@wisc.edu**
 ---
 
 # 🔥 News
-- **2025.01** 🎉 **SpecSwin3D** accepted by *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*  
+- **2025** 🎉 **SpecSwin3D** published in *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*  
 - **2025.09** 🎉 Our paper **SpecSwin** accepted at the **GeoSIM Workshop @ ACM SIGSPATIAL 2025**  
 - **2025.07** 🏆 Fourth Place, Remote Sensing Competition, **AAG Annual Meeting 2025**  
 - **2024.08** 🎓 Started Ph.D. program at **UW–Madison**  
@@ -67,7 +65,7 @@ Email: **tsui5@wisc.edu**
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2025  
 Paper ID: **TGRS-2025-07524**
 
-<img src="/specswin3d/specswin3d_graphical_abstract.jpg" alt="SpecSwin3D Graphical Abstract" width="80%" style="margin-top: 12px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.12);">
+<img src="{{ '/specswin3d/specswin3d_graphical_abstract.jpg' | relative_url }}" alt="SpecSwin3D Graphical Abstract" width="80%" style="margin-top: 12px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.12);">
 
 ---
 
@@ -75,7 +73,7 @@ Paper ID: **TGRS-2025-07524**
 **Tang Sui**, Mingda Wu, Meiliu Wu, Zhou Zhang, Qunying Huang  
 *International Journal of Applied Earth Observation and Geoinformation*, 2024  
 
-<img src="/specswin3d/biunet.jpg" alt="BiAU-Net Result" width="80%" style="margin-top: 12px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.12);">
+<img src="{{ '/specswin3d/biunet.jpg' | relative_url }}" alt="BiAU-Net Result" width="80%" style="margin-top: 12px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.12);">
 
 ---
 
@@ -92,7 +90,7 @@ Songxi Yang, Bo Peng, **Tang Sui**, Qunying Huang
 ---
 
 > 📄 **For a full publication list:**  
-> [Download CV](./CV_TangSui.pdf) · [Google Scholar](https://scholar.google.com/citations?user=TaezBZ0AAAAJ)
+> [Download CV]({{ '/CV_TangSui.pdf' | relative_url }}) · [Google Scholar](https://scholar.google.com/citations?user=TaezBZ0AAAAJ)
 
 ---
 
@@ -127,5 +125,3 @@ Songxi Yang, Bo Peng, **Tang Sui**, Qunying Huang
 - **Smart Agriculture Intern**, Chinese Academy of Agricultural Sciences (CAAS), Beijing  
 - **GNSS Surveying, GIS & Engineering Practice**, Tongji University  
 - **Pedestrian Detection Lighting System**, MIT Project  
-
----
