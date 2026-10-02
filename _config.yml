@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tang Sui's Homepage"
-description              : "PhD student at University of Wisconsin-Madison, Spatial Computing and Data Mining Lab, working on remote sensing and deep learning. "
+description              : "Ph.D. student in Geography at UW–Madison, developing GeoAI and remote-sensing methods for wildfire monitoring and environmental modeling."
 repository               : "TangSui122/TangSui122.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,6 +28,7 @@ author:
   employer         :
   pubmed           : 
   scholar          : "https://scholar.google.com/citations?user=TaezBZ0AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=TaezBZ0AAAAJ"
   email            : "tsui5@wisc.edu"
   researchgate     : "https://www.researchgate.net/profile/Tang-Sui-2"
   uri              :
