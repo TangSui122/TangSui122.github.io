@@ -27,7 +27,7 @@ I also work on **hyperspectral reconstruction, remote-sensing super-resolution, 
 - **Hydrological modeling:** learning spatial and temporal dependencies in river networks for streamflow imputation and prediction.
 
 📫 **Contact:** [tsui5@wisc.edu](mailto:tsui5@wisc.edu)  
-📄 [CV (previous version)]({{ '/CV_TangSui.pdf' | relative_url }}) · [Google Scholar](https://scholar.google.com/citations?user=TaezBZ0AAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Tang-Sui-2)
+📄 [CV]({{ '/Tang_Sui_CV_for_NIW_Recommendation.pdf' | relative_url }}) · [Google Scholar](https://scholar.google.com/citations?user=TaezBZ0AAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Tang-Sui-2)
 
 ---
 
@@ -110,7 +110,7 @@ Songxi Yang, Bo Peng, **Tang Sui**, and Qunying Huang
 *7th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (GeoAI)*, **2024**.  
 [Workshop Program](https://geoai.ornl.gov/acmsigspatial-geoai/2024_program/)
 
-📄 [CV (previous version)]({{ '/CV_TangSui.pdf' | relative_url }}) · [Complete publication list on Google Scholar](https://scholar.google.com/citations?user=TaezBZ0AAAAJ)
+📄 [CV]({{ '/Tang_Sui_CV_for_NIW_Recommendation.pdf' | relative_url }}) · [Complete publication list on Google Scholar](https://scholar.google.com/citations?user=TaezBZ0AAAAJ)
 
 ---
 
