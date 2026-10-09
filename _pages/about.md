@@ -191,4 +191,19 @@ Conducted GNSS surveying, built 3D GIS applications, and analyzed geospatial dat
 
 ---
 
+## Outside of Research
+
+I enjoy playing soccer outside of research. One of my favorite moments: a strike from the center circle on a <strong>FULL-SIZE</strong> pitch, against professional soccer players (some of whom went on to join China’s youth national teams).
+
+<video controls autoplay loop muted playsinline preload="metadata"
+       poster="{{ '/images/soccer-center-circle-poster.jpg' | relative_url }}"
+       width="956" height="698"
+       aria-label="Soccer strike from the center circle"
+       style="display: block; width: 100%; max-width: 720px; height: auto; margin-top: 12px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.12);">
+  <source src="{{ '/assets/soccer_center_circle_muted.mp4' | relative_url }}" type="video/mp4">
+  <a href="{{ '/assets/soccer_center_circle_muted.mp4' | relative_url }}">Download the soccer video.</a>
+</video>
+
+---
+
 *Last updated: October 2026.*
