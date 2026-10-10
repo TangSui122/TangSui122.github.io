@@ -199,7 +199,7 @@ I enjoy playing soccer outside of research. One of my favorite moments: a strike
        poster="{{ '/images/soccer-center-circle-poster.jpg' | relative_url }}"
        width="956" height="698"
        aria-label="Soccer strike from the center circle"
-       style="display: block; width: 100%; max-width: 720px; height: auto; margin-top: 12px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.12);">
+       style="display: block; width: 50%; max-width: 360px; height: auto; margin-top: 12px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.12);">
   <source src="{{ '/assets/soccer_center_circle_muted.mp4' | relative_url }}" type="video/mp4">
   <a href="{{ '/assets/soccer_center_circle_muted.mp4' | relative_url }}">Download the soccer video.</a>
 </video>
